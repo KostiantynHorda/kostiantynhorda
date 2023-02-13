@@ -1,3 +1,7 @@
+<!DOCTYPE html>
+
+<html>
+<body style="background-color: rgb(189, 189, 189);">
 [![Header](https://github.com/KostiantynHorda/kostiantynhorda/blob/master/assets/header.jpg)](https://github.com/KostiantynHorda)
 
 ## I am a beginner QA Engineer. I am highly motivated to start a career in software quality assurance. I have experience in several specialized courses. I am engaged in self-development, constantly improving my English. I have relevant certificates.
@@ -15,3 +19,6 @@
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/horda-kostiantyn)
 
+</body>
+
+</html>
