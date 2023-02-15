@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <body style="background-color: rgb(189, 189, 189);">
 
