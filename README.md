@@ -62,3 +62,6 @@
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/horda-kostiantyn)
 
+<style style="background-color: rgb(189, 189, 189);">
+   
+</style>
