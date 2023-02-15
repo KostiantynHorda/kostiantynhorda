@@ -3,17 +3,20 @@
 
 #### I am a beginner QA Engineer. I am highly motivated to start a career in software quality assurance. I have experience in several specialized courses. I am engaged in self-development, constantly improving my English. I have relevant certificates.
 
+### [Portfolio](https://github.com/KostiantynHorda/kostiantynhorda/tree/master#portfolio)
 
-### Languages and Skills
-#### Good experience/knowledge
+### My Hard Skills
+
+#### Good experience/knowledge:
 * Testing web, desktop, and mobile applications. 
 * QA principles and approaches. 
 * Types, levels of testing, and test-design techniques.</br>
+
 ![SDLC](https://img.shields.io/badge/SDLC-090909?style=for-the-badge&logo=sdlc&logoColor=47C5FB)
 ![STLC](https://img.shields.io/badge/STLC-090909?style=for-the-badge&logo=stlc&logoColor=47C5FB)
 ![BLC](https://img.shields.io/badge/BLC-090909?style=for-the-badge&logo=blc&logoColor=47C5FB)
 
-#### Basic experience
+#### Basic experience:
 ![JIRA](https://img.shields.io/badge/JIRA-090909?style=for-the-badge&logo=JIRA&logoColor=47C5FB)
 ![Mantis](https://img.shields.io/badge/Mantis-090909?style=for-the-badge&logo=mantis&logoColor=47C5FB)
 ![TestRail](https://img.shields.io/badge/TestRail-090909?style=for-the-badge&logo=testrail&logoColor=47C5FB)
@@ -23,7 +26,7 @@
 ![Git](https://img.shields.io/badge/Git-090909?style=for-the-badge&logo=Git&logoColor=47C5FB)
 
 
-#### Basic knowledge
+#### Basic knowledge:
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS&logoColor=47C5FB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
@@ -33,7 +36,7 @@
 ![Selenium](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=47C5FB)
 
 
-#### Understanding
+#### Understanding:
 ![HTTP(s)TML](https://img.shields.io/badge/HTTP(s)-090909?style=for-the-badge&logo=HTTP&logoColor=47C5FB)
 ![REST](https://img.shields.io/badge/REST-090909?style=for-the-badge&logo=REST&logoColor=47C5FB)
 ![SOAP](https://img.shields.io/badge/SOAP-090909?style=for-the-badge&logo=SOAP&logoColor=47C5FB)
@@ -42,7 +45,7 @@
 ![Kanban](https://img.shields.io/badge/Kanban-090909?style=for-the-badge&logo=Kanban&logoColor=47C5FB)
 
 
-#### Elementary experience
+#### Elementary experience:
 ![Charles](https://img.shields.io/badge/Charles-090909?style=for-the-badge&logo=Charles&logoColor=47C5FB)
 ![Postman](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=Postman&logoColor=47C5FB)
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
