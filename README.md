@@ -26,17 +26,17 @@
 #### Basic knowledge
 ![HTML](https://img.shields.io/badge/HTML-090909?style=for-the-badge&logo=HTML&logoColor=47C5FB)
 ![CSS](https://img.shields.io/badge/CSS-090909?style=for-the-badge&logo=CSS&logoColor=47C5FB)
-![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)</br>
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)</br>
+![JavaScript](https://img.shields.io/badge/JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=47C5FB)
+![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=Java&logoColor=47C5FB)
 ![JCucumberava](https://img.shields.io/badge/Cucumber-090909?style=for-the-badge&logo=Cucumber&logoColor=47C5FB)
 ![TestNG](https://img.shields.io/badge/TestNG-090909?style=for-the-badge&logo=TestNG&logoColor=47C5FB)
-![Selenium](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=47C5FB)</br>
+![Selenium](https://img.shields.io/badge/Selenium-090909?style=for-the-badge&logo=Selenium&logoColor=47C5FB)
 
 
 #### Understanding
 ![HTTP(s)TML](https://img.shields.io/badge/HTTP(s)-090909?style=for-the-badge&logo=HTTP&logoColor=47C5FB)
 ![REST](https://img.shields.io/badge/REST-090909?style=for-the-badge&logo=REST&logoColor=47C5FB)
-![SOAP](https://img.shields.io/badge/SOAP-090909?style=for-the-badge&logo=SOAP&logoColor=47C5FB))</br>
+![SOAP](https://img.shields.io/badge/SOAP-090909?style=for-the-badge&logo=SOAP&logoColor=47C5FB)
 ![Agile](https://img.shields.io/badge/Agile-090909?style=for-the-badge&logo=Agile&logoColor=47C5FB)
 ![Scrum](https://img.shields.io/badge/Scrum-090909?style=for-the-badge&logo=Scrum&logoColor=47C5FB)
 ![Kanban](https://img.shields.io/badge/Kanban-090909?style=for-the-badge&logo=Kanban&logoColor=47C5FB)
@@ -48,7 +48,7 @@
 ![SQL](https://img.shields.io/badge/SQL-090909?style=for-the-badge&logo=mysql&logoColor=47C5FB)
 
 
-### Samples of documentation of QA
+### Portfolio
 [Checklists](https://github.com/KostiantynHorda/Checklists)</br>
 [Test-Suites and Test-Cases](https://github.com/KostiantynHorda/Test-Cases)</br>
 [Bug-Reports](https://github.com/KostiantynHorda/Bug-Reports)</br>
