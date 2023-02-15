@@ -4,11 +4,11 @@
 #### I am a beginner QA Engineer. I am highly motivated to start a career in software quality assurance. I have experience in several specialized courses. I am engaged in self-development, constantly improving my English. I have relevant certificates.
 
 
-### Languages and Tools
+### Languages and Skills
 #### Good experience/knowledge
-##### * Testing web, desktop, and mobile applications. 
-##### * QA principles and approaches. 
-##### * Types, levels of testing, and test-design techniques.
+* Testing web, desktop, and mobile applications. 
+* QA principles and approaches. 
+* Types, levels of testing, and test-design techniques.
 ![SDLC](https://img.shields.io/badge/SDLC-090909?style=for-the-badge&logo=sdlc&logoColor=47C5FB)
 ![STLC](https://img.shields.io/badge/STLC-090909?style=for-the-badge&logo=stlc&logoColor=47C5FB)
 ![BLC](https://img.shields.io/badge/BLC-090909?style=for-the-badge&logo=blc&logoColor=47C5FB)
