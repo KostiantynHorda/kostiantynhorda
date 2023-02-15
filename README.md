@@ -11,12 +11,12 @@
 
 
 ### Samples of documentation of QA
-Checklists(https://github.com/KostiantynHorda/Checklists)
-Test-Suites and Test-Cases
-Bug-Reports
-SQL Queries
-Postman Collections
-Test Automation tasks
+[Checklists](https://github.com/KostiantynHorda/Checklists)</br>
+[Test-Suites and Test-Cases](https://github.com/KostiantynHorda/Test-Cases)</br>
+[Bug-Reports](https://github.com/KostiantynHorda/Bug-Reports)</br>
+[SQL Queries](https://github.com/KostiantynHorda/SQL-Queries)</br>
+[Postman Collections](https://github.com/KostiantynHorda/Postman-Collections)</br>
+[Test Automation tasks](https://github.com/KostiantynHorda/Test-Automation-tasks)
 
 ### Follow me
 [![Linkedin](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=Linkedin&logoColor=47C5FB)](https://www.linkedin.com/in/horda-kostiantyn)
