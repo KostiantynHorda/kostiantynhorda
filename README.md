@@ -3,6 +3,8 @@
 
 #### I am a beginner QA Engineer. I am highly motivated to start a career in software quality assurance. I have experience in several specialized courses. I am engaged in self-development, constantly improving my English. I have relevant certificates.
 
+## [Recommendations](https://github.com/KostiantynHorda/Recommendations)
+
 ### [Portfolio](https://github.com/KostiantynHorda/kostiantynhorda/tree/master#follow-me)
 
 ### My Hard Skills
