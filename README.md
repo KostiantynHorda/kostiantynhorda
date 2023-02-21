@@ -1,4 +1,4 @@
-[![Header](https://github.com/KostiantynHorda/kostiantynhorda/blob/master/assets/KH_18.png)](https://github.com/KostiantynHorda)
+![Header](https://github.com/KostiantynHorda/kostiantynhorda/blob/master/assets/KH_18.png)
 
 
 #### I am a beginner QA Engineer. I am highly motivated to start a career in software quality assurance. I have experience in several specialized courses. I am engaged in self-development, constantly improving my English. I have relevant certificates.
